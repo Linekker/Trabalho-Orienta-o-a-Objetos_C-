@@ -64,4 +64,4 @@ Este projeto foi desenvolvido em equipe, e cada membro contribuiu com diferentes
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto é de uso acadêmico e segue as diretrizes da PUC Minas para trabalhos práticos.
