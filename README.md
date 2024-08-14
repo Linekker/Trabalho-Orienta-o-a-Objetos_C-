@@ -5,7 +5,7 @@ O projeto OO Comidinhas Veganas é uma aplicação desenvolvida como parte do cu
 
 O projeto foi dividido em três sprints principais, cada uma com tarefas específicas que visavam a evolução contínua do sistema.
 
-Funcionalidades Implementadas
+
 
 Sprint 1: Alocação de Mesas
 Objetivo: Desenvolver um sistema básico para alocação de mesas no restaurante.
