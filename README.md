@@ -1,4 +1,4 @@
-OO Comidinhas Veganas
+**OO Comidinhas Veganas
 Descrição do Projeto
 O projeto OO Comidinhas Veganas é uma aplicação desenvolvida como parte do curso de Programação Orientada a Objetos na PUC Minas. O objetivo principal é criar um sistema de gerenciamento de mesas e pedidos para um restaurante vegano, e posteriormente expandir o sistema para incluir um café anexo ao restaurante.
 
